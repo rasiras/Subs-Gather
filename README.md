@@ -26,7 +26,9 @@ This command will save the subdomains of example.com to a file called "subdomain
 
 **Dependencies**
 
-tool_name
+Amass
+Assetfinder
+Subfinder
 
 Note
 -This is a simple implementation for educational purposes and for limited usage, it can also be used as a part of bug bounty or penetration testing
