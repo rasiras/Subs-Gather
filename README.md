@@ -1,6 +1,6 @@
 # Subs-Gather
 
-A simple Python script for finding subdomains of a given domain.
+A simple Python script for finding subdomains of a given domain by using several open source tools .
 
 Usage
 ```
